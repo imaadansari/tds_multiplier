@@ -1,5 +1,5 @@
-rm ~/.streamlit/config.toml
 mkdir -p ~/.streamlit/
+rm ~/.streamlit/config.toml
 
 echo "\
 [general]\n\
